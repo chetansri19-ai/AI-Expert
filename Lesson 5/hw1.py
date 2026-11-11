@@ -53,4 +53,4 @@ model.fit(
 
 loss, accuracy = model.evaluate(x_test, y_test)
 
-print("Test Accuracy:", accuracy)
+print("Test Accuracy:", accuracy)x
